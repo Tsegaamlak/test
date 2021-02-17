@@ -1,0 +1,42 @@
+body
+{ 
+    margin:0%;
+    padding:0%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-size:cover;
+    background-image: url(abstract.jpg); 
+    background-blend-mode:darken;
+    background-attachment: fixed; link="#000" alink="#017bf5" vlink="#000"
+}
+ .ul{
+text-align:right; #button ;text-align: center; #Home ;
+}
+h1{
+text-align:left;color: crimson; text-decoration: navy; text-overflow: clip; text-shadow: navy;
+}
+title{text-align: center;
+text-decoration-color: darkblue;}
+h2{
+text-align: end; 
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: medium;
+table-layout: fixed;
+margin: 0%
+height: 0%;
+}
+.button:hover{ color: rgb(243, 1, 1); background-image: url(Huge.jpg);}
+.button{
+    color:rgb(206, 142, 142);
+    background-size: 100%;
+    background-image: url(technology.jpg);
+    padding: 1%;
+}
+p{text-decoration-color: darkblue;   text-align: center;text-transform: uppercase;text-overflow: clip; text-shadow: lightslategray ;}
+.h1{
+    list-style: circle; letter-spacing:initial;
+}
+.logo{
+    margin: 25px 30px;
+    height: 100px;
+}
+body{color: darkblue;}
